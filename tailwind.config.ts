@@ -57,6 +57,15 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        wave: {
+          primary: "hsl(var(--wave-primary))",
+          secondary: "hsl(var(--wave-secondary))",
+          tertiary: "hsl(var(--wave-tertiary))",
+        },
+        glass: {
+          bg: "hsl(var(--glass-bg))",
+          border: "hsl(var(--glass-border))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
